@@ -7,6 +7,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/BharathHM1818/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/BharathHM1818/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BharathHM1818/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BharathHM1818/LeetCode/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/BharathHM1818/LeetCode/tree/master/0053-maximum-subarray) |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/BharathHM1818/LeetCode/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/BharathHM1818/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BharathHM1818/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BharathHM1818/LeetCode/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/BharathHM1818/LeetCode/tree/master/0125-valid-palindrome) |
@@ -57,6 +59,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/BharathHM1818/LeetCode/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/BharathHM1818/LeetCode/tree/master/0169-majority-element) |
 ## Counting
 |  |
