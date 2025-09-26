@@ -15,6 +15,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BharathHM1818/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/BharathHM1818/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/BharathHM1818/LeetCode/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/BharathHM1818/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/BharathHM1818/LeetCode/tree/master/0283-move-zeroes) |
 ## Two Pointers
 |  |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/BharathHM1818/LeetCode/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/BharathHM1818/LeetCode/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
