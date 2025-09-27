@@ -6,6 +6,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/BharathHM1818/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/BharathHM1818/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/BharathHM1818/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BharathHM1818/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -45,6 +46,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/BharathHM1818/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/BharathHM1818/LeetCode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/BharathHM1818/LeetCode/tree/master/0169-majority-element) |
 ## Dynamic Programming
@@ -57,6 +59,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/BharathHM1818/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BharathHM1818/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
