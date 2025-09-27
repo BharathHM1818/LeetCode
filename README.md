@@ -10,6 +10,7 @@
 | [0015-3sum](https://github.com/BharathHM1818/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BharathHM1818/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BharathHM1818/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/BharathHM1818/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/BharathHM1818/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BharathHM1818/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/BharathHM1818/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -25,6 +26,7 @@
 | [0015-3sum](https://github.com/BharathHM1818/LeetCode/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BharathHM1818/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BharathHM1818/LeetCode/tree/master/0027-remove-element) |
+| [0042-trapping-rain-water](https://github.com/BharathHM1818/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/BharathHM1818/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BharathHM1818/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/BharathHM1818/LeetCode/tree/master/0189-rotate-array) |
@@ -48,6 +50,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/BharathHM1818/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/BharathHM1818/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BharathHM1818/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/BharathHM1818/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -76,4 +79,12 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/BharathHM1818/LeetCode/tree/master/0238-product-of-array-except-self) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/BharathHM1818/LeetCode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/BharathHM1818/LeetCode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
