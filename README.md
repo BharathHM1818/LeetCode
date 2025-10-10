@@ -12,6 +12,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BharathHM1818/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BharathHM1818/LeetCode/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/BharathHM1818/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/BharathHM1818/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/BharathHM1818/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BharathHM1818/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/BharathHM1818/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -44,6 +45,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BharathHM1818/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BharathHM1818/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/BharathHM1818/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/BharathHM1818/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/BharathHM1818/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/BharathHM1818/LeetCode/tree/master/0344-reverse-string) |
@@ -71,6 +73,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/BharathHM1818/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/BharathHM1818/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/BharathHM1818/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/BharathHM1818/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/BharathHM1818/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -79,6 +82,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/BharathHM1818/LeetCode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/BharathHM1818/LeetCode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/BharathHM1818/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/BharathHM1818/LeetCode/tree/master/0242-valid-anagram) |
 ## Counting
