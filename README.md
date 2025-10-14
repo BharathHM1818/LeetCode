@@ -15,6 +15,7 @@
 | [0049-group-anagrams](https://github.com/BharathHM1818/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/BharathHM1818/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BharathHM1818/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/BharathHM1818/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/BharathHM1818/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BharathHM1818/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/BharathHM1818/LeetCode/tree/master/0169-majority-element) |
@@ -51,6 +52,7 @@
 | [0049-group-anagrams](https://github.com/BharathHM1818/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/BharathHM1818/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/BharathHM1818/LeetCode/tree/master/0125-valid-palindrome) |
+| [0139-word-break](https://github.com/BharathHM1818/LeetCode/tree/master/0139-word-break) |
 | [0242-valid-anagram](https://github.com/BharathHM1818/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/BharathHM1818/LeetCode/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/BharathHM1818/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -68,6 +70,7 @@
 | [0042-trapping-rain-water](https://github.com/BharathHM1818/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/BharathHM1818/LeetCode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BharathHM1818/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/BharathHM1818/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/BharathHM1818/LeetCode/tree/master/0152-maximum-product-subarray) |
 ## Binary Search
 |  |
@@ -80,6 +83,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/BharathHM1818/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/BharathHM1818/LeetCode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/BharathHM1818/LeetCode/tree/master/0076-minimum-window-substring) |
+| [0139-word-break](https://github.com/BharathHM1818/LeetCode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/BharathHM1818/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/BharathHM1818/LeetCode/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/BharathHM1818/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
@@ -127,4 +131,12 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/BharathHM1818/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/BharathHM1818/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/BharathHM1818/LeetCode/tree/master/0424-longest-repeating-character-replacement) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/BharathHM1818/LeetCode/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/BharathHM1818/LeetCode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
