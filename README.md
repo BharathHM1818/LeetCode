@@ -16,6 +16,7 @@
 | [0042-trapping-rain-water](https://github.com/BharathHM1818/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/BharathHM1818/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/BharathHM1818/LeetCode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/BharathHM1818/LeetCode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BharathHM1818/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/BharathHM1818/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/BharathHM1818/LeetCode/tree/master/0152-maximum-product-subarray) |
@@ -36,6 +37,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/BharathHM1818/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/BharathHM1818/LeetCode/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/BharathHM1818/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0075-sort-colors](https://github.com/BharathHM1818/LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/BharathHM1818/LeetCode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/BharathHM1818/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/BharathHM1818/LeetCode/tree/master/0189-rotate-array) |
@@ -99,6 +101,7 @@
 | ------- |
 | [0015-3sum](https://github.com/BharathHM1818/LeetCode/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/BharathHM1818/LeetCode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/BharathHM1818/LeetCode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/BharathHM1818/LeetCode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/BharathHM1818/LeetCode/tree/master/0242-valid-anagram) |
 ## Counting
